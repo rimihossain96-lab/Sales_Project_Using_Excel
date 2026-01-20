@@ -58,7 +58,7 @@ The dashboard provides a *clear, interactive, and business-friendly view* of sal
 ### 📊 EXCEL Snapshots
 SNAPSHOT – Line_Chart
 # Line_chart
-![Line_Chart](/output/line_chart.png)
+![Line_Chart](/OutPut2.png)
 
 SNAPSHOT – Bar_chart
 # Bar_chart
