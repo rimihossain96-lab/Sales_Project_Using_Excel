@@ -17,7 +17,7 @@ The objective of this project is to evaluate *sales performance, product-wise re
 ## 📂 Project Files
 📁 Dataset/
    └── Excel_Sales_Project_Dataset.xlsx
-📄 Excel_Sales_Project_working_sheet_f.xlsx
+📄 Excel_Sales_Project.xlsx
 📄 README.md
 ---
 ## 🧠 Business Questions Solved
@@ -54,9 +54,8 @@ The Excel dashboard includes:
 The dashboard provides a *clear, interactive, and business-friendly view* of sales performance.
 ---
 📌 *FILE -- EXCEL_WORKING :* 
-👉 *[Excel_Sales_Project_working_sheet_f](Excel_Sales_Project_working_sheet_f)*
+👉 *[Excel_Sales_Project.xlsx](Excel_Sales_Project.xlsx)*
 ### 📊 EXCEL Snapshots
-
 SNAPSHOT – Line_Chart
 # Line_chart
 ![Line_Chart](/output/line_chart.png)
