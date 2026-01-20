@@ -56,37 +56,37 @@ The dashboard provides a *clear, interactive, and business-friendly view* of sal
 📌 *FILE -- EXCEL_WORKING :* 
 👉 *[Excel_Sales_Project.xlsx](Excel_Sales_Project.xlsx)*
 ### 📊 EXCEL Snapshots
-SNAPSHOT – Line_Chart
+# SNAPSHOT – Line_Chart
 # Line_chart
-![Line_Chart](/OutPut2.png)
+![Line_Chart](/Excel_images/OutPut2.png)
 
-SNAPSHOT – Bar_chart
+# SNAPSHOT – Bar_chart
 # Bar_chart
-![Bar_Chart](/output/bar_chart.png)
+![Bar_Chart](/Excel_images/OutPut7.png)
 
-SNAPSHOT – Pie_chart
+# SNAPSHOT – Pie_chart
 # Pie_chart
-![Pie_Chart](/output/pie_chart.png)
+![Pie_Chart](/Excel_images/OutPut8.png)
 
-SNAPSHOT - KPI
-# KPI
-![KPI](/output/KPI.png)
-
-SNAPSHOT - Average_units_sold_of_product
+# SNAPSHOT - Average_units_sold_of_product
 # Average_units_sold_of_product
-![Average_units_sold_of_product](/output/average_units_sold_of_product.png)
+![Average_units_sold_of_product](/Excel_images/OutPut4.png)
 
-SNAPSHOT - Monthly_sales_trend
+# SNAPSHOT - Monthly_sales_trend
 # Monthly_sales_trend
-![Monthly_sales_trend](/output/monthly_sales_trend.png)
+![Monthly_sales_trend](/Excel_images/Output1.png)
 
-SNAPSHOT - Top_5_saler
+# SNAPSHOT - Top_5_saler
 # Top_5_saler
-![Top_5_saler](/output/top_5_saler.png)
+![Top_5_saler](/Excel_images/OutPut6.png)
 
-SNAPSHOT - Pivort_table
+# SNAPSHOT - Highest of total_sales_per_product
+# Highest of total_sales_per_product
+![Highest of total_sales_per_product](/Excel_images/OutPut3.png)
+
+# SNAPSHOT - Pivort_table
 # Pivort_table
-![Pivort_table](/output/pivort_table.png)
+![Pivort_table](/Excel_images/OutPut5.png)
 
 ## 🎯 Key Insights
 
